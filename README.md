@@ -37,7 +37,7 @@ $ python3 predict.py --input_file {INPUT_FILE_PATH} --output_file {OUTPUT_FILE_P
 
 |                   | Accuracy (%) |
 | ----------------- | ------------ |
-| KcBERT            | **??.??**    |
+| KcBERT            | **89.04**    |
 | KoBERT            | 89.63        |
 | DistilKoBERT      | 88.41        |
 | Bert-Multilingual | 87.07        |
